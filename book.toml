@@ -1,0 +1,6 @@
+[book]
+authors = ["eder"]
+language = "en"
+multilingual = false
+src = "src"
+title = "NodersDAO-Documentation"
